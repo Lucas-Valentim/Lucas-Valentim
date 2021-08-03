@@ -6,6 +6,12 @@
 
 ##
 
+- ⌨️ Working: .Net Developer
+- 💻 Studying: Specialization course in full stack development
+- 🎮 Hobbies: Play videogames, computer games, board games, play soccer
+
+##
+
 <div>
   <a href="https://github.com/Lucas-Valentim">
     <img height="180em" width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-Valentim&count_private=true&show_icons=true&theme=vision-friendly-dark" />
