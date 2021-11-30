@@ -7,7 +7,7 @@
 ##
 
 - ⌨️ Working: .Net Developer
-- 💻 Studying: Specialization course in full stack development
+- 💻 Studying: Post graduation in full stack development
 - 🎮 Hobbies: Play videogames, computer games, board games, play soccer
 
 ##
