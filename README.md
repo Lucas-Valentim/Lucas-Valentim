@@ -6,8 +6,8 @@
 
 ##
 
-- ⌨️ Job: Fullstack Developer
-- 💻 Degree: Master’s degree in full stack development
+- 💻 Job: Fullstack Developer
+- 📚 Degree: Master’s degree in full stack development
 - 🎮 Hobbies: Play videogames, computer games, board games, play soccer
 
 ##
